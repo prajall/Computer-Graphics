@@ -40,11 +40,6 @@ void main()
   floodfill(11,351-i,255);
   delay(5);
  }
-
-
-
-
-
  getch();
  closegraph();
 
