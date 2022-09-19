@@ -1,1 +1,1 @@
-dammi dammi graphic ani totally not bachha haru le garne jasto kura haru
+dammi dammi graphics, animations haru ani totally not bachha le garne jasto kura haru
