@@ -47,10 +47,10 @@ int main()
    bounceDown(0,150);
    bounceUp(150,120);
    bounceDown(30,120);
+   bounceUp(150,80);
+   bounceDown(70,80);
 
    getch();
    closegraph();
-
-
 
 }
