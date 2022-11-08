@@ -12,11 +12,10 @@ void main()
 
  int gd = DETECT,gm;
  initgraph(&gd,&gm,"C:/TC/BGI");
- 
- End = pi/4;
+
  angle = 0;
  
- while(angle<=End){
+ while(angle<=360){
  
  	x = r*cos(angle);
  	y = r*sin(angle);
