@@ -29,7 +29,7 @@ void main()
  	putpixel(y+h,-x+k,RED);
  	putpixel(x+h,-y+k,RED);
  	
- 	angle+=i;
+ 	angle++;
  	
  }
 	getch();
