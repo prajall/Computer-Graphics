@@ -23,7 +23,7 @@ void main()
  	putpixel(x+h,y+k,RED);
  	putpixel(y+h,x+k,RED);
  	putpixel(-y+h,x+k,RED);
- 	putpixel(-x+h,yk,RED);
+ 	putpixel(-x+h,y+k,RED);
  	putpixel(-x+h,-y+k,RED);
  	putpixel(-y+h,-x+k,RED);
  	putpixel(y+h,-x+k,RED);
